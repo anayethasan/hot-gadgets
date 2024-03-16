@@ -1,0 +1,99 @@
+.navbar {
+    background-color: transparent !important;
+    padding: 3rem;
+    font-weight: 500;
+}
+.navbar img{
+    width: 10rem;
+    height: auto;
+}
+.Curosel_section .carousel-indicators button{
+    background-image: linear-gradient(to right, #FF9C35 0%, #FFD019 100%);
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+.carousel-item{
+    padding: 2rem 4rem;
+}
+.buy-now-button{
+    background-color: #000000;
+    color: #ffff;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    border-color: transparent;
+}
+.buy-now-button:hover{
+    background: none;
+    color: #000000;
+    border: 3px solid #000000;
+    font-weight: 700;
+}
+.left-image{
+    position: relative;
+    bottom: 11rem;
+    left: -30px;
+}
+.Phone-title a{
+    text-decoration: none;
+    color: #FF9C35;
+}
+.card-desing{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 20px;
+}
+.card-footer{
+    border-top: none;
+    background-color: transparent;
+}
+.card-img-top {
+    padding: 60px;
+}
+.card-body{
+    text-align: center;
+    padding: 25px 80px 30px;
+}
+.card-footer{
+    text-align: center;
+    padding: 0 0 50px;
+}
+.card-footer h5{
+    padding: 0 0 20px;
+}
+.card-height{
+    height: 685px;
+}
+.Laptop_section{
+    padding: 120px 0 40px;
+}
+.categories-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.headline{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
+    align-items: center;
+}
+.headline h1{
+    text-align: center;
+}
+.headline .box{
+    width: 135.53px;
+    height: 8px;
+    background-image: linear-gradient(to right,  #FF9C35 0%, #FFD019 100%);
+    border-radius: 5px;
+}
+.categories-section .card-body{
+    background-color: white;
+    width: 296px;
+    height: 314px;
+    border-radius: 30px 0 30px 0;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.gap{
+    margin-top: 100px;
+}
