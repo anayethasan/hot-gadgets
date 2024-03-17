@@ -1,3 +1,7 @@
+body{
+    background-color: white;
+    font-family: 'Poppins', Courier;
+}
 .navbar {
     background-color: transparent !important;
     padding: 3rem;
